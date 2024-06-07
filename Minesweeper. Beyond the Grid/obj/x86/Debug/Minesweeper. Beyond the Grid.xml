@@ -1,0 +1,164 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Minesweeper.BeyondtheGrid
+</name>
+</assembly>
+<members>
+<member name="P:Minesweeper.Beyond_the_Grid.My.Resources.Resources.ResourceManager">
+	<summary>
+  Gibt die zwischengespeicherte ResourceManager-Instanz zurück, die von dieser Klasse verwendet wird.
+</summary>
+</member><member name="P:Minesweeper.Beyond_the_Grid.My.Resources.Resources.Culture">
+	<summary>
+  Überschreibt die CurrentUICulture-Eigenschaft des aktuellen Threads für alle
+  Ressourcenzuordnungen, die diese stark typisierte Ressourcenklasse verwenden.
+</summary>
+</member><member name="P:Minesweeper.Beyond_the_Grid.My.Resources.Resources._0">
+	<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Minesweeper.Beyond_the_Grid.My.Resources.Resources._01">
+	<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Minesweeper.Beyond_the_Grid.My.Resources.Resources._1200px_Minesweeper_1_svg">
+	<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Minesweeper.Beyond_the_Grid.My.Resources.Resources._1200px_Minesweeper_11">
+	<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Minesweeper.Beyond_the_Grid.My.Resources.Resources._1200px_Minesweeper_2_svg">
+	<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Minesweeper.Beyond_the_Grid.My.Resources.Resources._1200px_Minesweeper_21">
+	<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Minesweeper.Beyond_the_Grid.My.Resources.Resources._1200px_Minesweeper_6_svg">
+	<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Minesweeper.Beyond_the_Grid.My.Resources.Resources._1b">
+	<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Minesweeper.Beyond_the_Grid.My.Resources.Resources._2b">
+	<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Minesweeper.Beyond_the_Grid.My.Resources.Resources._3b">
+	<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Minesweeper.Beyond_the_Grid.My.Resources.Resources._4b">
+	<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Minesweeper.Beyond_the_Grid.My.Resources.Resources._5b">
+	<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Minesweeper.Beyond_the_Grid.My.Resources.Resources._6b">
+	<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Minesweeper.Beyond_the_Grid.My.Resources.Resources.background">
+	<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Minesweeper.Beyond_the_Grid.My.Resources.Resources.backgroundtiles">
+	<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Minesweeper.Beyond_the_Grid.My.Resources.Resources.bar">
+	<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Minesweeper.Beyond_the_Grid.My.Resources.Resources.bomb">
+	<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Minesweeper.Beyond_the_Grid.My.Resources.Resources.Bombe_Rot">
+	<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Minesweeper.Beyond_the_Grid.My.Resources.Resources.Clear_box_40x40_pressed">
+	<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Minesweeper.Beyond_the_Grid.My.Resources.Resources.IMG_1539">
+	<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Minesweeper.Beyond_the_Grid.My.Resources.Resources.light11">
+	<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Minesweeper.Beyond_the_Grid.My.Resources.Resources.Logo">
+	<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Minesweeper.Beyond_the_Grid.My.Resources.Resources.Logo1">
+	<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Minesweeper.Beyond_the_Grid.My.Resources.Resources.Minesweeper_3_svg">
+	<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Minesweeper.Beyond_the_Grid.My.Resources.Resources.Minesweeper_4_svg">
+	<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Minesweeper.Beyond_the_Grid.My.Resources.Resources.Minesweeper_5_svg">
+	<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Minesweeper.Beyond_the_Grid.My.Resources.Resources.Minesweeper_7_svg">
+	<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Minesweeper.Beyond_the_Grid.My.Resources.Resources.Minesweeper_8_svg">
+	<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Minesweeper.Beyond_the_Grid.My.Resources.Resources.Minesweeper_unopened_square_svg">
+	<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Minesweeper.Beyond_the_Grid.My.Resources.Resources.tile219">
+	<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Minesweeper.Beyond_the_Grid.My.Resources.Resources.tile221">
+	<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Minesweeper.Beyond_the_Grid.My.Resources.Resources.tile322">
+	<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Minesweeper.Beyond_the_Grid.My.Resources.Resources.tile3221">
+	<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Minesweeper.Beyond_the_Grid.My.Resources.Resources.tile501">
+	<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Minesweeper.Beyond_the_Grid.My.Resources.Resources.tile91">
+	<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member><member name="T:Minesweeper.Beyond_the_Grid.My.Resources.Resources">
+	<summary>
+  Eine stark typisierte Ressourcenklasse zum Suchen von lokalisierten Zeichenfolgen usw.
+</summary>
+</member>
+</members>
+</doc>
